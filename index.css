@@ -1,0 +1,17 @@
+body * {
+  border: 0px solid red;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+.changing-text {
+  font-size: 4rem;
+}
+input {
+  width: 300px;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+}
+option {
+  display: none;
+}
